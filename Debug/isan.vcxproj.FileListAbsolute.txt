@@ -1,0 +1,2 @@
+C:\Users\wjswo\source\repos\isan\Debug\isan.exe
+C:\Users\wjswo\source\repos\isan\Debug\isan.pdb
